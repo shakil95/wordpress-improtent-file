@@ -1,0 +1,3 @@
+// rear more function code
+
+<?php echo wp_trim_words(get_the_content(), word number type here , true); ?> 
